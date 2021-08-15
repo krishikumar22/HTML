@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html
+  <head>
+      <link rel="stylesheet" href="C:\Users\KRISHI\Documents\web devolopment\css practice\virat(C I).css">
+      <title>VIRAT KOHLI'S CHILDHOOD</title>
+  </head>
+  <body style="background:pink;">
+      <h1 class="title"> VIRAT KOHLI"S LEGACY</h1>
+      <h2 class="subtitle">INTRO:</h2>
+      <div><b>  Virat</b> is the world's best batsman and he's the <b><i>world's richest cricketer</i></b> ever lived.</div><div>The networth of him is estimated to be is around <i>2100 crores.</i></div><div>In the below article,we are gonna see the very less known childhood of Virat.</div>
+      <span><img width="400" height="400" src="master.jpg" /></span><span><img width="400" height="400" src="virat.jpg" /></span>
+      <h2>EARLY LIFE:</h2>
+      <div>He's born in a <i>middleclass family</i> in Punjab.They later moved to Delhi,his father <i>late(prem kohli)</i> was a criminal lawyer.<div>
+      <div>Virat has a sister and a brother,His mother recently told in an interview that he started to hold a bat when he's <b>7 years old.</b></div>
+      <div>His father supported him to play cricket,At the age of 10 he joined Delhi academy,his father used to drop him in his <b><i>scooter</i></b> daily.</div>
+      <span><img width="350" height ="350" src="virat childhood.jpg" /></span><span><img width="350" height="350" src="v with f.jpg" /></span>
+      <h2 id="VIRAT'S-TEENCAREER">VIRAT'S TEENCAREER:</h2>
+      <div><b>Virat</b> had great interest and dedication in <i>cricket</i>. he idolised <b>SACHIN TENDULKAR</b> who was the cricket hero at the <i>90's.</i></div>
+      <div>But at that time him and the world dosent know that, Virat is gonna break every record of his idol in terms of batting.</div>
+      <div>We wipe when we lose our father,but this guy dosent gave up to have his emotions ruin his game,He played the match and,</div>
+      <div>scored an outstanding <b>90*</b> and made his team to win and the he was awarded the man of the match by ASHISH NEHRA.</div>
+      <div>His mother then told in an interview that His father eas everthing he's have had.then he became a totally changed man since.</div>
+      <img  width="600" height ="600" src="a with v.jpg" />
+      <h3>THE KNOWN GROWTH OF VIRAT IS SHOWN BELOW:</h3>
+      <iframe width="560" height="415" src="https://www.youtube.com/embed/ixe2zeorvRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <div><b>Virat</b> scored</div> nearly 23<sup>100</sup> with more than 7<sup>10</sup> hundreds just 26 100's less than his god <b>SACHIN,</b>
+    
+    </body>
+</html>
