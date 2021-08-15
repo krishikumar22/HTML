@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Krishi's resume</title>
+  </head>
+  <body>
+    <h4>Skills known</h4><br/>
+    <h6><big>1)excellent problem solver</big></h6>
+    <h6>2)expert in <b><i>c</b></i><h6>
+    <h6>3)hands on experience in <big>html,javascript</big></h6>
+    </hr>
+    <h4>Formula of Chemicals known</h4>
+    <h6>H<sub>2</sub>O--- water</h6>
+    <h6>H<sub>2</sub>SO<sub>4</sub>---hydrosulphuric acid</h6>
+    <hr/>
+    <p>I'm a quick learner with a great attitude to work solo and I'm a good team player too<br/>love to be working in a good environment surrounded by people with same mindset</p>
+    </hr>
+    <p>10<sup>3</p>
+  </body>
+</html>
